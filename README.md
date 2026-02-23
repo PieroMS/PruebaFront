@@ -2,18 +2,19 @@
 
 Aplicación desarrollada con **Vue 3 + Vite + Pinia + Vue Router + TailwindCSS**.  
 Consume una API externa para mostrar productos y categorías.
-
+https://fakestoreapi.com
 ---
 
 ## ⚙️ Requisitos Previos
 
 Antes de ejecutar el proyecto, es necesario tener instalado:
 
-- ✅ **Node.js** (versión recomendada: LTS)  
-  https://nodejs.org/
+- ✅ **Node.js**
 
-Puedes verificar si lo tienes instalado ejecutando:
+Ejecutar los siguientes comandos:
 
 ```sh
-node -v
-npm -v
+npm i
+
+```sh
+npm run dev
