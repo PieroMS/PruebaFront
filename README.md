@@ -15,6 +15,4 @@ Ejecutar los siguientes comandos:
 
 ```sh
 npm i
-
-```sh
 npm run dev
