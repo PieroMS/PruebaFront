@@ -2,8 +2,8 @@
 
 Aplicación desarrollada con **Vue 3 + Vite + Pinia + Vue Router + TailwindCSS**.  
 Consume una API externa para mostrar productos y categorías.
-https://fakestoreapi.com
 ---
+https://fakestoreapi.com
 
 ## ⚙️ Requisitos Previos
 
