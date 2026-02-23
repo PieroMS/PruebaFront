@@ -18,31 +18,12 @@ function goToCategories() {
     <div class="bg-white/80 backdrop-blur-md shadow-2xl rounded-3xl p-12 max-w-2xl">
 
       <h1 class="text-4xl md:text-5xl font-extrabold text-rose-600 mb-6">
-        Bienvenido a Vue Product App 💖
+        Bienvenido a Tiendita 💖
       </h1>
 
       <p class="text-gray-600 text-lg mb-10 leading-relaxed">
-        Aplicación desarrollada con Vue 3, Pinia, Vue Router, Axios y Tailwind.
-        Explora productos y categorías consumiendo una API externa.
+        Web que lista productos y categorías
       </p>
-
-      <div class="flex flex-col sm:flex-row gap-4 justify-center">
-
-        <button
-          @click="goToProducts"
-          class="bg-rose-500 text-white px-8 py-3 rounded-xl shadow-lg hover:bg-rose-600 hover:scale-105 transition-all duration-300"
-        >
-          🛍️ Ver Productos
-        </button>
-
-        <button
-          @click="goToCategories"
-          class="bg-pink-200 text-rose-700 px-8 py-3 rounded-xl shadow-md hover:bg-pink-300 hover:scale-105 transition-all duration-300"
-        >
-          📦 Ver Categorías
-        </button>
-
-      </div>
 
     </div>
 

@@ -14,7 +14,7 @@ onMounted(() => {
     <div class="max-w-7xl mx-auto">
 
       <h1 class="text-4xl font-extrabold text-rose-600 mb-10 text-center">
-        🛍️ Nuestros Productos
+        Nuestros Productos
       </h1>
 
       <div 
@@ -73,7 +73,7 @@ onMounted(() => {
             <button
               class="mt-5 w-full bg-rose-500 text-white py-2 rounded-xl hover:bg-rose-600 hover:scale-105 transition-all duration-300"
             >
-              Ver producto
+              Ver más
             </button>
           </div>
 

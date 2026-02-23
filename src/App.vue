@@ -14,7 +14,7 @@ const currentYear = new Date().getFullYear()
           to="/" 
           class="font-extrabold text-xl text-rose-600 hover:text-rose-700 transition"
         >
-          💖 Vue Product App
+          💖 Tiendita
         </RouterLink>
 
         <div class="flex gap-4">
@@ -54,8 +54,8 @@ const currentYear = new Date().getFullYear()
 
     <footer class="bg-rose-600 text-rose-100 text-center py-5 mt-10 shadow-inner">
       <div class="container mx-auto text-sm">
-        © {{ currentYear }} Vue Product App 💕  
-        Desarrollado con Vue 3 + Pinia + Tailwind.
+        © {{ currentYear }} Marilyn Jhamile 💕  
+        Desarrollado por Marilyn :p
       </div>
     </footer>
 
